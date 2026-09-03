@@ -84,7 +84,7 @@ const URL = `https://www.hackerrank.com/profile/${USERNAME}`;
         font-family="Arial, sans-serif"
         font-size="16"
         fill="#8b949e">
-    @${escapeXml(USERNAME)}
+    @${escapeXml(@kaartikshukla77)}
   </text>
 
   <rect x="70"
