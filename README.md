@@ -1,4 +1,4 @@
-![logo](https://github.com/KaartikShukla/KaartikShukla/blob/main/Github-img.png)
+![logo](https://github.com/KaartikShukla/KaartikShukla/blob/main/Github_image.png)
 # 👋 Hi, I'm Kaartik Shukla
 
 <h3 align="center">🚀 Technical Trainer | Full Stack Developer | Programming & DSA Mentor</h3>
